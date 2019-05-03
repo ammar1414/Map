@@ -1,0 +1,19 @@
+section {
+	height: 100vh;
+}
+
+h1 {
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+}
+
+body {
+	margin: none;
+	border: none;
+	overflow-y: hidden;
+	background-color: #2D4571;
+}
+
+input {
+	margin-right: 10px;
+}

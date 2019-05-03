@@ -1,0 +1,24 @@
+body {
+	margin: none;
+	border: none;
+	overflow-y: hidden;
+	background-color: #2D4571;
+}
+
+h1 {
+ 	
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+}
+h3 {
+	font-size: large;
+	font-family: 'Noto Sans', sans-serif;
+	color: red;
+	margin-top: 350px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-color: red;
+  color: white;
+  
+}
